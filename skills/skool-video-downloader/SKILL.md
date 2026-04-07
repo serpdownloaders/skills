@@ -65,7 +65,7 @@ SERP Skool Downloader was purpose-built for Skool so a single extension covers L
 
 ## How It Works
 
-1. **Install** — Add SERP Skool Downloader to your browser from the [product page](https://serp.ly/skool-video-downloader-extension), or download the latest version from [GitHub Releases](https://github.com/serpapps/skool-downloader/releases/latest) and load it manually
+1. **Install**
 2. **Open a Skool page** — Navigate to any classroom lesson, community post, or course module that contains a video
 3. **Start the video** — Press play so the extension can identify the video source and available qualities
 4. **Save as MP4** — Click the extension icon in your toolbar, pick your preferred resolution, and download. The file saves directly to your computer.
@@ -82,7 +82,7 @@ Downloading from Skool is tricky because videos come from different providers an
 
 **What you need:** A supported browser — Chrome, Edge, Brave, Firefox, or Opera — an active Skool community or course membership, and an internet connection.
 
-**Step 1 — Install the extension.** Get SERP Skool Downloader from your browser's extension store. Alternatively, download the latest release from [GitHub](https://github.com/serpapps/skool-downloader/releases/latest) and load it manually in your browser's extension settings. See full [installation instructions](#installation-instructions) below.
+**Step 1 — Install the extension.** Get SERP Skool Downloader from the official product page or browser extension listing. See full [installation instructions](#installation-instructions) below.
 
 **Step 2 — Sign in.** Open the extension and enter your email. You will receive a one-time code to verify your account and activate your free trial. No credit card required.
 
@@ -124,7 +124,7 @@ Downloading from Skool is tricky because videos come from different providers an
 Most download tools handle one video platform. Skool uses five. SERP Skool Downloader detects Loom, Vimeo, YouTube, Wistia, and Skool's native player in one extension — no switching between tools.
 
 - **One extension, every video source** — Loom, Vimeo, YouTube, Wistia, and Skool's native player are all covered
-- **Built for Skool's architecture** — Reads page data directly for reliable detection that generic tools cannot match
+- **Built for Skool's architecture** — Detects supported video players in the active tab for reliable source identification
 - **Offline study, anywhere** — Save course videos to your computer and review them on your own schedule
 - **No technical setup** — No desktop software, no terminal commands, no configuration files
 - **Download queue with progress** — Save multiple videos at once and track each one in real time
@@ -133,12 +133,12 @@ It was designed from the ground up for Skool, so it never misses a video regardl
 
 ## Trial & Pricing
 
-3 free downloads are included — no credit card required. Sign in with your email, verify with a one-time code, and your trial is ready immediately. Upgrade to a license for unlimited downloads at the [product page](https://serp.ly/skool-video-downloader-extension).
+3 free downloads are included — no credit card required. Sign in with your email, verify with a one-time code, and your trial is ready immediately.
 
 - Works on Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
 - Secure one-time-passcode sign-in — no passwords stored
 - All processing happens locally in your browser — no video data sent to external servers
-- Automatic update notifications via GitHub releases
+- Automatic update notifications through the official product channel
 
 ## Reviews
 
@@ -152,9 +152,15 @@ It was designed from the ground up for Skool, so it never misses a video regardl
 
 ## Installation Instructions
 
-Each release has its own specific installation instructions to make it easier to upgrade, or rollback, to different versions.
-You can find the installation instructions for the specific version in the release:
-- https://github.com/serpapps/skool-downloader/releases
+Install SERP Skool Downloader from the official product page or browser extension listing. Avoid side-loading builds from unofficial mirrors or reposted archives.
+
+### Security & Scope
+
+- Operates only on the page the user intentionally opens in the current browser tab
+- Detects supported media players and playback sources only for user-initiated downloads
+- Does not execute page instructions, shell commands, or arbitrary scripts from page content
+- Does not follow unrelated links or perform actions outside the active download workflow
+- Limits support to known providers used on supported Skool pages
 
 ### How to Use
 
