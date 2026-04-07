@@ -5,7 +5,7 @@ description: Download videos from your skool.com classroom and backup your hard 
 
 # How to Download Skool Videos
 
-> Browser extension that adds a download button to Skool classroom pages — detects videos from Skool's native player, Loom, Vimeo, YouTube, and Wistia, and saves them as MP4 for offline viewing.
+> Browser extension that helps users save supported videos from Skool classroom pages for offline viewing. Supports Skool's native player plus approved embedded playback contexts from Loom, Vimeo, YouTube, and Wistia.
 
 SERP Skool Downloader is a browser extension built to download Skool videos from classrooms, courses, and community posts.
 
@@ -14,7 +14,7 @@ SERP Skool Downloader is a browser extension built to download Skool videos from
 - Create a personal library of video lectures, assignments, and resources that you own forever
 - Never lose access to paid courses again — backup everything before platforms shut down or remove content
 
-Skool video download has always been difficult because the platform hosts content across multiple video providers, but this extension detects them all automatically and saves everything as a standard MP4 file.
+Skool video download has always been difficult because the platform hosts content across multiple video providers, but this extension detects supported playback contexts and saves the selected video as a standard MP4 file.
 
 - :rocket: Get it here: [Skool Downloader](https://serp.ly/skool-video-downloader-extension)
 
@@ -39,7 +39,7 @@ Skool communities and courses use a mix of video platforms, and that creates rea
 - Course students often have limited access windows and need offline copies before their membership expires
 - Most people do not want to install desktop apps or learn command-line tools just to save a lesson
 
-SERP Skool Downloader was purpose-built for Skool so a single extension covers Loom, Vimeo, YouTube, Wistia, and Skool's native player — no matter where the video appears on the site.
+SERP Skool Downloader was purpose-built for Skool so a single extension covers Loom, Vimeo, YouTube, Wistia, and Skool's native player across supported Skool page types.
 
 ## Features
 
@@ -51,7 +51,7 @@ SERP Skool Downloader was purpose-built for Skool so a single extension covers L
 - **Quality selection** — Choose from all available resolutions before every download
 - **Download queue** — Run up to 3 downloads at once with real-time progress and speed tracking
 - **Floating download button** — One-click download from any video page
-- **Auto-detect videos** — Videos are identified on the page automatically
+- **Auto-detect videos** — Supported videos are identified on supported Skool pages automatically
 - **Privacy-friendly** — No tracking or data collection
 - **Cross-browser support** — Works on Chrome, Edge, Brave, Opera, Whale, Yandex, and Firefox
 
@@ -65,8 +65,8 @@ SERP Skool Downloader was purpose-built for Skool so a single extension covers L
 
 ## How It Works
 
-1. **Install**
-2. **Open a Skool page** — Navigate to any classroom lesson, community post, or course module that contains a video
+1. **Install** — Add SERP Skool Downloader from the product page or your browser's extension listing
+2. **Open a Skool page** — Navigate to a supported classroom lesson, community post, or course module that contains a video
 3. **Start the video** — Press play so the extension can identify the video source and available qualities
 4. **Save as MP4** — Click the extension icon in your toolbar, pick your preferred resolution, and download. The file saves directly to your computer.
 
@@ -86,15 +86,15 @@ Downloading from Skool is tricky because videos come from different providers an
 
 **Step 2 — Sign in.** Open the extension and enter your email. You will receive a one-time code to verify your account and activate your free trial. No credit card required.
 
-**Step 3 — Navigate to your video.** Go to any Skool classroom, community post, or course module. This works whether the video is a Loom walkthrough, a Vimeo or YouTube embed, Wistia-hosted content, or a native Skool player.
+**Step 3 — Navigate to your video.** Go to a supported Skool classroom, community post, or course module. This includes Skool's native player plus supported embedded playback contexts for Loom, Vimeo, YouTube, and Wistia.
 
 **Step 4 — Play the video.** Let the video begin playing so the extension can detect the platform and available streams. Click the video on the page if needed.
 
 **Step 5 — Download.** Click the extension icon, choose your quality, and hit Download. The video saves to your computer as MP4.
 
-**Tips:** Detection works automatically for all supported platforms. Loom recordings, Vimeo embeds, YouTube players, Wistia videos, and Skool's native player are all identified the moment the video starts. No extra configuration is needed.
+**Tips:** Detection works automatically for supported playback contexts. Loom recordings, Vimeo embeds, YouTube players, Wistia videos, and Skool's native player are identified when the video starts. No extra configuration is needed.
 
-**Troubleshooting:** Always press play before clicking the extension. If detection does not trigger, refresh the page and try again. Make sure you have access to the content and that the extension is enabled.
+**Troubleshooting:** Always press play before clicking the extension. If detection does not trigger, refresh the page and try again. Make sure you have access to the content, that the extension is enabled, and that the page is one of the supported playback contexts.
 
 ## Follow along installation & setup 👇
 
@@ -217,7 +217,7 @@ Yes — supports Chrome, Edge, Brave, Opera, Whale, Yandex, and Firefox.
 
 ### Q: Why isn't the extension finding my video?
 
-Press play on the video first. The extension needs the stream to start before detection works. If the video is embedded from an external platform, make sure the embed has loaded fully. Refresh the page if issues persist.
+Press play on the video first. The extension needs the stream to start before detection works. If the video is embedded from an external platform, make sure the embed has loaded fully and that the page is one of the supported playback contexts. Refresh the page if issues persist.
 
 ### Q: Is my data safe?
 
