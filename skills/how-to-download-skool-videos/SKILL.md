@@ -1,5 +1,5 @@
 ---
-name: How to Download Skool Videos
+name: how-to-download-skool-videos
 description: Download videos from your skool.com classroom and backup your hard work.
 ---
 
