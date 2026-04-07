@@ -1,9 +1,9 @@
 ---
-name: How to Download Skool Videos
+name: how-to-download-skool-videos
 description: Download videos from your skool.com classroom and backup your hard work.
 ---
 
-# Skool Video Downloader  (Browser Extension)
+# How to Download Skool Videos
 
 > Browser extension that adds a download button to Skool classroom pages — detects videos from Skool's native player, Loom, Vimeo, YouTube, and Wistia, and saves them as MP4 for offline viewing.
 
