@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "skool-video-downloader": {
+      "source": "serpdownloaders/skills",
+      "sourceType": "github",
+      "computedHash": "9d4cebc4ea504b55e76bcba8e228bf6321a247f8f0f59432b9f3267d96fa9508"
+    }
+  }
+}
