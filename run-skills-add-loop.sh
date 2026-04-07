@@ -12,7 +12,7 @@ Usage:
     --seconds-after-cycle N
 
 Runs:
-  npx skills add https://github.com/serpdownloaders/skills --skills skool-video-downloader -y
+  npx skills add https://github.com/serpdownloaders/skills --skills skool-video-downloader loom-video-downloader -y
 
 Parameters:
   --runs-per-cycle         Number of times to run the command per cycle
@@ -121,6 +121,7 @@ command=(
   https://github.com/serpdownloaders/skills
   --skills
   skool-video-downloader
+  loom-video-downloader
   -y
 )
 

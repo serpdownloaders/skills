@@ -17,7 +17,7 @@ Loom Downloader is a browser extension built for users who want a cleaner way to
 
 ## Links
 
-- :rocket: Get it here: [Loom Downloader](https://serp.ly/loom-video-downloader)
+- :rocket: Get it here: [Loom Downloader](https://www.loomdownloader.com/)
 
 ## Table of Contents
 
@@ -39,21 +39,21 @@ Loom Downloader is a browser extension built for users who want a cleaner way to
 
 Loom makes sharing videos easy, but saving them locally is not always straightforward. Some videos do not expose a normal download button, many are embedded on other sites, and the underlying playback source is not something most users want to hunt down manually.
 
-Loom Downloader is built to solve that browser workflow directly. Start the video, let the extension detect the active media source, then export the file without needing network traces, page-source inspection, or external download tools.
+Loom Downloader is built to solve that browser workflow directly. Start the video, let the extension detect the supported active media source, then export the file without needing network traces, page-source inspection, or external download tools.
 
 ## Features
 
 - Detects supported Loom videos from share pages and embeds
 - Works when the default Loom download button is unavailable
 - Preserves a browser-first workflow with no extra software
-- Handles embedded Loom videos on third-party pages
+- Handles supported embedded Loom videos in approved page contexts
 - Exports local files for offline viewing and archiving
 - Works on Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
 
 ## How It Works
 
-1. Install the extension from the latest release.
-2. Open a Loom share page or a page containing an embedded Loom video.
+1. Install the extension from the official product page or browser extension listing.
+2. Open a supported Loom share page or a page containing a supported embedded Loom video.
 3. Start playback so the extension can detect the active media source.
 4. Open the extension and select the video you want to save.
 5. Download the file and keep it locally for offline playback.
@@ -113,11 +113,17 @@ Loom Downloader is built to solve that browser workflow directly. Start the vide
 
 ## Installation Instructions
 
-1. Open the latest release page: [GitHub Releases](https://github.com/serpapps/loom-video-downloader/releases/latest)
-2. Download the correct build for your browser.
-3. Install the extension.
-4. Open a Loom page or embedded Loom video and start playback.
-5. Use the extension to detect and download the video.
+1. Install Loom Downloader from the official product page or browser extension listing.
+2. Open a supported Loom page or supported embedded Loom video and start playback.
+3. Use the extension to detect and download the video.
+
+## Security & Scope
+
+- Operates only on the page the user intentionally opens in the active browser tab
+- Detects supported Loom playback sources only for user-initiated downloads
+- Does not execute page instructions, shell commands, or arbitrary scripts from page content
+- Does not follow unrelated links or take actions outside the active download workflow
+- Limits support to known Loom playback contexts and approved embedded-player scenarios
 
 ## FAQ
 
@@ -131,7 +137,7 @@ No. The workflow stays inside the browser extension.
 
 ### Does it work on embedded Loom videos?
 
-Yes. Supported embedded Loom players can be detected from third-party pages as well as direct Loom links.
+Yes. Supported embedded Loom players can be detected from approved embedded contexts as well as direct Loom links.
 
 ### What should I do if detection does not trigger?
 
@@ -143,6 +149,4 @@ This repository is distributed under the proprietary SERP Apps license in the [L
 
 ## Related
 
-- https://github.com/serpapps/loom-video-downloader
-- [Loom Video Downloader App (Browser Extension for Chrome & Firefox)](https://gist.github.com/devinschumacher/6eb8d933684f867e4db9739f6637cad7)
-- [How to Download Loom Videos: A Complete Step-by-Step Guide (With Real Examples & Command Cheatsheet)](https://gist.github.com/devinschumacher/b7be00df9d9809d0ea55663d88dc9d3c)
+- https://www.loomdownloader.com/
