@@ -64,8 +64,8 @@ Loom Downloader is built to solve that browser workflow directly. Start the vide
 
 ## Supported Formats
 
-- Input: supported Loom share-page and embed playback sources
-- Output: local downloadable video files based on the active source workflow
+- Input: supported Loom share-page and approved embedded-player playback sources
+- Output: local downloadable video files based on the active, user-initiated source workflow
 
 ## Step-by-Step Tutorial: How to Download Videos from Loom
 
@@ -134,7 +134,7 @@ Loom Downloader is built to solve that browser workflow directly. Start the vide
 
 ### Is it possible to download a private Loom video when the owner has disabled downloads?
 
-Yes, on supported Loom pages and embeds where the extension can detect the active media source through your browser session.
+Yes, on supported Loom pages and approved embedded contexts where the extension can detect the active media source through your browser session.
 
 ### Do I need extra software?
 
@@ -142,7 +142,7 @@ No. The workflow stays inside the browser extension.
 
 ### Does it work on embedded Loom videos?
 
-Yes. Supported embedded Loom players can be detected from approved embedded contexts as well as direct Loom links.
+Yes. Supported embedded Loom players can be detected from approved embedded contexts as well as supported direct Loom links.
 
 ### What should I do if detection does not trigger?
 
