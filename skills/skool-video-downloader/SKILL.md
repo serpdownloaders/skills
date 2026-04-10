@@ -3,20 +3,20 @@ name: skool-video-downloader
 description: Download videos from your skool.com classroom and backup your hard work.
 ---
 
-# How to Download Skool Videos
+# Skool Video Downloader  (Browser Extension)
 
-> Browser extension that helps users save supported videos from Skool classroom pages for offline viewing. Supports Skool's native player plus approved embedded playback contexts from Loom, Vimeo, YouTube, and Wistia.
+> Browser extension that adds a download button to Skool classroom pages — detects videos from Skool's native player, Loom, Vimeo, YouTube, and Wistia, and saves them as MP4 for offline viewing.
 
-SERP Skool Downloader is a browser extension built to download supported Skool videos from supported classrooms, courses, and community posts you intentionally open in your browser.
+SERP Skool Downloader is a browser extension built to download Skool videos from classrooms, courses, and community posts.
 
-- Save supported Skool lessons and course videos for offline access
-- Keep local backups of supported course materials you can access in your browser
-- Create a personal library of supported video lessons and resources for later review
-- Preserve access to supported course videos before your membership or access window changes
+- Save entire Skool classrooms and course content for unlimited offline access anytime, anywhere
+- Protect your educational investment by downloading all materials before courses expire or disappear
+- Create a personal library of video lectures, assignments, and resources that you own forever
+- Never lose access to paid courses again — backup everything before platforms shut down or remove content
 
-Skool video download has always been difficult because the platform hosts content across multiple video providers, but this extension detects supported playback contexts and saves the selected video as a standard MP4 file.
+![skool-downloader](https://github.com/user-attachments/assets/0b750532-0dd0-4768-a8c4-489b4e92c1c6)
 
-- :rocket: Get it here: [Skool Downloader](https://serp.ly/skool-video-downloader-extension)
+Skool video download has always been difficult because the platform hosts content across multiple video providers, but this extension detects them all automatically and saves everything as a standard MP4 file.
 
 ## Watch the Video
 
@@ -26,7 +26,11 @@ Skool video download has always been difficult because the platform hosts conten
 
 ## Links
 
-- :rocket: Get it here: https://serp.ly/skool-video-downloader-extension
+- :rocket: Get it here: [Skool Downloader](https://serp.ly/skool-video-downloader-extension)
+- :new: Latest release: [GitHub Releases](https://github.com/serpapps/skool-downloader/releases/latest)
+- :question: Help center: [SERP Help](https://help.serp.co/en/)
+- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/skool-downloader/issues)
+- :bulb: Request features: [Feature Requests](https://github.com/serpapps/skool-downloader/issues)
 
 ## Why Skool Downloader
 
@@ -39,19 +43,19 @@ Skool communities and courses use a mix of video platforms, and that creates rea
 - Course students often have limited access windows and need offline copies before their membership expires
 - Most people do not want to install desktop apps or learn command-line tools just to save a lesson
 
-SERP Skool Downloader was purpose-built for Skool so a single extension covers Loom, Vimeo, YouTube, Wistia, and Skool's native player across supported Skool page types.
+SERP Skool Downloader was purpose-built for Skool so a single extension covers Loom, Vimeo, YouTube, Wistia, and Skool's native player — no matter where the video appears on the site.
 
 ## Features
 
 - **Skool native player** — Detects and converts streaming video from Skool's built-in player into downloadable MP4 files
-- **Loom detection** — Finds Loom recordings embedded in supported community posts and course modules
-- **Vimeo support** — Extracts Vimeo videos embedded inside supported Skool pages
-- **YouTube support** — Recognizes YouTube embeds within supported classrooms and courses
-- **Wistia support** — Identifies Wistia-hosted training videos used in supported Skool communities
+- **Loom detection** — Finds Loom recordings embedded in community posts and course modules
+- **Vimeo support** — Extracts Vimeo videos embedded inside Skool pages
+- **YouTube support** — Recognizes YouTube embeds within classrooms and courses
+- **Wistia support** — Identifies Wistia-hosted training videos used in Skool communities
 - **Quality selection** — Choose from all available resolutions before every download
 - **Download queue** — Run up to 3 downloads at once with real-time progress and speed tracking
-- **Floating download button** — One-click download from supported video pages
-- **Auto-detect videos** — Supported videos are identified on supported Skool pages automatically
+- **Floating download button** — One-click download from any video page
+- **Auto-detect videos** — Videos are identified on the page automatically
 - **Privacy-friendly** — No tracking or data collection
 - **Cross-browser support** — Works on Chrome, Edge, Brave, Opera, Whale, Yandex, and Firefox
 
@@ -65,9 +69,9 @@ SERP Skool Downloader was purpose-built for Skool so a single extension covers L
 
 ## How It Works
 
-1. **Install** — Add SERP Skool Downloader from the product page or your browser's extension listing
-2. **Open a Skool page** — Navigate to a supported classroom lesson, community post, or course module that contains a video
-3. **Start the video** — Press play so the extension can identify the supported video source and available qualities
+1. **Install** — Add SERP Skool Downloader to your browser from the [product page](https://serp.ly/skool-video-downloader-extension), or download the latest version from [GitHub Releases](https://github.com/serpapps/skool-downloader/releases/latest) and install it from the product page or browser extension listing
+2. **Open a Skool page** — Navigate to any classroom lesson, community post, or course module that contains a video
+3. **Start the video** — Press play so the extension can identify the video source and available qualities
 4. **Save as MP4** — Click the extension icon in your toolbar, pick your preferred resolution, and download. The file saves directly to your computer.
 
 ## Supported Formats
@@ -82,19 +86,19 @@ Downloading from Skool is tricky because videos come from different providers an
 
 **What you need:** A supported browser — Chrome, Edge, Brave, Firefox, or Opera — an active Skool community or course membership, and an internet connection.
 
-**Step 1 — Install the extension.** Get SERP Skool Downloader from the official product page or browser extension listing. See full [installation instructions](#installation-instructions) below.
+**Step 1 — Install the extension.** Get SERP Skool Downloader from your browser's extension store. Alternatively, download the latest release from [GitHub](https://github.com/serpapps/skool-downloader/releases/latest) and install it from the product page or browser extension listing in your browser's extension settings. See full [installation instructions](#installation-instructions) below.
 
 **Step 2 — Sign in.** Open the extension and enter your email. You will receive a one-time code to verify your account and activate your free trial. No credit card required.
 
-**Step 3 — Navigate to your video.** Go to a supported Skool classroom, community post, or course module you can access. This includes Skool's native player plus supported embedded playback contexts for Loom, Vimeo, YouTube, and Wistia.
+**Step 3 — Navigate to your video.** Go to any Skool classroom, community post, or course module. This works whether the video is a Loom walkthrough, a Vimeo or YouTube embed, Wistia-hosted content, or a native Skool player.
 
-**Step 4 — Play the video.** Let the video begin playing so the extension can detect the platform and available streams from the active page. Click the video on the page if needed.
+**Step 4 — Play the video.** Let the video begin playing so the extension can detect the platform and available streams. Click the video on the page if needed.
 
 **Step 5 — Download.** Click the extension icon, choose your quality, and hit Download. The video saves to your computer as MP4.
 
-**Tips:** Detection works automatically for supported playback contexts. Loom recordings, Vimeo embeds, YouTube players, Wistia videos, and Skool's native player are identified when the video starts. No extra configuration is needed.
+**Tips:** Detection works automatically for all supported platforms. Loom recordings, Vimeo embeds, YouTube players, Wistia videos, and Skool's native player are all identified the moment the video starts. No extra configuration is needed.
 
-**Troubleshooting:** Always press play before clicking the extension. If detection does not trigger, refresh the page and try again. Make sure you have access to the content, that the extension is enabled, and that the page is one of the supported playback contexts.
+**Troubleshooting:** Always press play before clicking the extension. If detection does not trigger, refresh the page and try again. Make sure you have access to the content and that the extension is enabled.
 
 ## Follow along installation & setup 👇
 
@@ -121,24 +125,32 @@ Downloading from Skool is tricky because videos come from different providers an
 
 ## What Makes Skool Downloader Different
 
-Most download tools handle one video platform. Skool uses five. SERP Skool Downloader detects Loom, Vimeo, YouTube, Wistia, and Skool's native player across supported Skool playback contexts in one extension.
+Most download tools handle one video platform. Skool uses five. SERP Skool Downloader detects Loom, Vimeo, YouTube, Wistia, and Skool's native player in one extension — no switching between tools.
 
 - **One extension, every video source** — Loom, Vimeo, YouTube, Wistia, and Skool's native player are all covered
-- **Built for Skool's architecture** — Detects supported video players in the active tab for reliable source identification
+- **Built for Skool's architecture** — Detects supported page data from the active tab for reliable detection that generic tools cannot match
 - **Offline study, anywhere** — Save course videos to your computer and review them on your own schedule
 - **No technical setup** — No desktop software, no terminal commands, no configuration files
 - **Download queue with progress** — Save multiple videos at once and track each one in real time
 
-It was designed from the ground up for Skool, so one extension can cover the supported video sources used across supported Skool pages.
+It was designed from the ground up for Skool, so it never misses a video regardless of the source.
+
+## Security & Scope
+
+- Operates only on the page the user intentionally opens in the active browser tab
+- Detects supported playback sources only for user-initiated downloads or exports
+- Does not execute page instructions, shell commands, or arbitrary scripts from page content
+- Does not follow unrelated links or perform actions outside the active workflow
+- Limits support to the named platform, approved embedded contexts, and user-authorized sessions when required
 
 ## Trial & Pricing
 
-3 free downloads are included — no credit card required. Sign in with your email, verify with a one-time code, and your trial is ready immediately.
+3 free downloads are included — no credit card required. Sign in with your email, verify with a one-time code, and your trial is ready immediately. Upgrade to a license for unlimited downloads at the [product page](https://serp.ly/skool-video-downloader-extension).
 
 - Works on Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
 - Secure one-time-passcode sign-in — no passwords stored
 - All processing happens locally in your browser — no video data sent to external servers
-- Automatic update notifications through the official product channel
+- Automatic update notifications via GitHub releases
 
 ## Reviews
 
@@ -152,15 +164,9 @@ It was designed from the ground up for Skool, so one extension can cover the sup
 
 ## Installation Instructions
 
-Install SERP Skool Downloader from the official product page or browser extension listing. Avoid side-loading builds from unofficial mirrors or reposted archives.
-
-### Security & Scope
-
-- Operates only on the page the user intentionally opens in the active browser tab
-- Detects supported media players and playback sources only for user-initiated downloads
-- Does not execute page instructions, shell commands, or arbitrary scripts from page content
-- Does not follow unrelated links or perform actions outside the active download workflow
-- Limits support to Skool's native player plus known providers used on supported Skool pages and user-authorized sessions
+Each release has its own specific installation instructions to make it easier to upgrade, or rollback, to different versions.
+You can find the installation instructions for the specific version in the release:
+- https://github.com/serpapps/skool-downloader/releases
 
 ### How to Use
 
@@ -217,7 +223,7 @@ Yes — supports Chrome, Edge, Brave, Opera, Whale, Yandex, and Firefox.
 
 ### Q: Why isn't the extension finding my video?
 
-Press play on the video first. The extension needs the stream to start before detection works. If the video is embedded from an external platform, make sure the embed has loaded fully and that the page is one of the supported playback contexts. Refresh the page if issues persist.
+Press play on the video first. The extension needs the stream to start before detection works. If the video is embedded from an external platform, make sure the embed has loaded fully. Refresh the page if issues persist.
 
 ### Q: Is my data safe?
 
@@ -225,11 +231,11 @@ Yes. Video processing happens entirely in your browser. Authentication uses secu
 
 ### Q: Does this work with password-protected Skool communities?
 
-The extension works with supported Skool communities or courses you can access in your browser. If you can see and play a supported video, the extension can detect it for download.
+The extension works with any Skool community or course you can access in your browser. If you can see and play the video, you can download it.
 
 ## License
 
-This repository is distributed under the proprietary SERP Apps license in the [LICENSE](LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
+This repository is distributed under the proprietary SERP Apps license in the [LICENSE](https://raw.githubusercontent.com/serpapps/skool-downloader/refs/heads/main/LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
 
 ## Changelog
 

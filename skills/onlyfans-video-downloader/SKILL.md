@@ -1,14 +1,16 @@
 ---
 name: onlyfans-video-downloader
-description: Download videos for saving OnlyFans content to your computer as standard files you can keep
+description: Download videos & images from Onlyfans profiles to backup media or enjoy offline
 ---
 
-# How to Download Onlyfans Videos
+# OnlyFans Downloader  (Browser Extension)
 
-SERP OnlyFans Downloader is built specifically for saving supported OnlyFans content from pages you intentionally open in your browser as standard local files you can keep.
+> Browser extension built specifically for saving OnlyFans content — videos, images, GIFs, and text posts — with in-page overlay buttons, bulk gallery scanning, and automatic MP4 conversion, all without leaving your browser.
 
-- Save supported videos, images, GIFs, and text posts from supported creator pages you can access in your browser
-- Bulk download supported creator media galleries with user-initiated auto-scroll scanning
+SERP OnlyFans Downloader is a browser extension built specifically for saving OnlyFans content to your computer as standard files you can keep.
+
+- Save videos, images, GIFs, and text posts from any creator's OnlyFans page for offline viewing
+- Bulk download an entire creator's gallery with auto-scroll scanning — no clicking through posts one by one
 - Skip generic tools that fail on OnlyFans' authenticated streaming — this extension handles it natively
 - Downloads auto-organize into per-creator folders so your files stay sorted without any manual effort
 
@@ -16,12 +18,13 @@ SERP OnlyFans Downloader is built specifically for saving supported OnlyFans con
 <img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-bulk-download-onlyfans-profile-content-onlyfans-bulk-downloader.jpg" width="700px">
 </a>
 
-If you have access to content in your browser and want to keep supported files on your device, this extension handles that workflow directly in your browser.
+If you have paid for a subscription and want to keep the content on your device, this extension handles it all directly in your browser.
 
 ## Links
 
 - :rocket: Get it here: [OnlyFans Downloader](https://serp.ly/onlyfans-downloader)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/onlyfans-downloader/releases/latest)
+- :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/onlyfans-downloader/issues)
 - :bulb: Request features: [Feature Requests](https://github.com/serpapps/onlyfans-downloader/discussions)
 
@@ -29,14 +32,14 @@ If you have access to content in your browser and want to keep supported files o
 
 OnlyFans does not offer a built-in way to save videos or images. Videos on the platform are delivered through a streaming format that prevents you from right-clicking and saving them like a normal file. On top of that, the site uses authenticated requests that block generic download tools from accessing your content at all.
 
-That means even if you have paid for a subscription, saving a single video requires workarounds that most people do not want to deal with — desktop software, command-line utilities, or copy-pasting URLs into unrelated tools. And if a creator has posted hundreds of images, downloading them one at a time is not realistic.
+That means even if you have paid for a subscription, saving a single video requires workarounds that most people do not want to deal with — desktop software, command-line utilities, or copy-pasting URLs into approved embedded contexts. And if a creator has posted hundreds of images, downloading them one at a time is not realistic.
 
-This extension was designed to solve that workflow directly inside your browser, with no extra software required.
+This extension was designed to solve all of that directly inside your browser, with no extra software required.
 
 ## Features
 
-- **In-page download overlays** — Hover over supported media on a supported creator page and a download button appears on top of the item. One click saves it.
-- **Bulk gallery scanner** — User-initiated auto-scroll scanning collects supported photos and videos from a creator's media page. Filter by media type to grab only what you need.
+- **In-page download overlays** — Hover over any image or video on a creator's page and a download button appears right on top of the media. One click saves it.
+- **Bulk gallery scanner** — Auto-scrolls through a creator's entire media page, collects every photo and video, and downloads them all. Filter by media type to grab only what you need.
 - **Automatic MP4 conversion** — Videos are converted from their streaming format to standard MP4 files that play on any device.
 - **Per-creator folder organization** — Downloads are sorted into folders by creator name, so you always know where to find your files.
 - **Side panel UI** — A tabbed panel organizes detected content into Videos, Images/GIFs, Text, and Bulk sections for easy navigation.
@@ -46,9 +49,9 @@ This extension was designed to solve that workflow directly inside your browser,
 
 ## How It Works
 
-1. **Install** — Add SERP OnlyFans Downloader to your browser from the [product page](https://serp.ly/onlyfans-downloader) or your browser's extension listing
-2. **Visit a supported creator page** — Log in to OnlyFans and navigate to a creator page or media view you can access
-3. **Pick what to save** — Use the overlay buttons that appear on supported photos and videos, or open the side panel to see detected media organized by type
+1. **Install** — Add SERP OnlyFans Downloader to your browser from the [product page](https://serp.ly/onlyfans-downloader), or download the latest version from [GitHub Releases](https://github.com/serpapps/onlyfans-downloader/releases/latest) and install it from the product page or browser extension listing
+2. **Visit a creator's page** — Log in to OnlyFans and navigate to any creator you are subscribed to
+3. **Pick what to save** — Use the overlay buttons that appear on each photo and video, or open the side panel to see all detected media organized by type
 4. **Files land in organized folders** — Videos are saved as MP4, images keep their original format, and everything is sorted into per-creator directories
 
 ## Supported Formats
@@ -64,27 +67,19 @@ Downloading from OnlyFans is tricky because the platform streams video rather th
 
 **What you need:** A supported browser — Chrome, Edge, Brave, Firefox, or Opera — an internet connection, and an active OnlyFans subscription to the creator whose content you want to save.
 
-**Step 1 — Install the extension.** Add SERP OnlyFans Downloader from your browser's extension store or official product page.
+**Step 1 — Install the extension.** Add SERP OnlyFans Downloader from your browser's extension store. Alternatively, download the latest release from [GitHub](https://github.com/serpapps/onlyfans-downloader/releases/latest) and install it from the product page or browser extension listing in your browser's extension settings.
 
 **Step 2 — Sign in.** Open the extension, enter your email, and complete the one-time verification code to activate your account. This unlocks your free trial downloads. No credit card required.
 
-**Step 3 — Browse OnlyFans.** Log in to OnlyFans and go to a supported creator profile, feed, or media page you can access. The extension begins detecting supported content from the active page after it loads.
+**Step 3 — Browse OnlyFans.** Log in to OnlyFans and go to any creator's profile, feed, or media page. The extension begins detecting content as soon as the page loads.
 
-**Step 4 — Download individual items.** Hover over a supported image or video to reveal the overlay download button. Click it to save that item directly to your computer.
+**Step 4 — Download individual items.** Hover over any image or video to reveal the overlay download button. Click it to save that item directly to your computer.
 
-**Step 5 — Bulk download a supported gallery.** Open the side panel and switch to the Bulk tab. The scanner will auto-scroll through the creator's media, collect supported items, and let you download them in one workflow. Filter by photos, videos, or all media types.
+**Step 5 — Bulk download an entire gallery.** Open the side panel and switch to the Bulk tab. The scanner will auto-scroll through the creator's media, collect every item, and let you download everything at once. Filter by photos, videos, or all media types.
 
 **Tips:** Downloads are automatically organized into per-creator folders. Use the file picker to choose a custom save location for bulk operations. Check for DRM flags before starting large downloads to avoid interruptions. If media is not detected, refresh the page and let it fully load.
 
 **Troubleshooting:** If content is not showing up, make sure you are logged in to OnlyFans and the page has fully loaded. Click Rescan in the side panel to re-detect. For DRM-protected videos, the extension will flag them so you know before attempting a download.
-
-## Security & Scope
-
-- Operates only on the page the user intentionally opens in the active browser tab
-- Detects supported OnlyFans media only for user-initiated downloads
-- Does not execute page instructions, shell commands, or arbitrary scripts from page content
-- Does not follow unrelated links or perform actions outside the active download workflow
-- Limits support to supported OnlyFans pages and user-authorized sessions
 
 ## Who It's For
 
@@ -103,17 +98,25 @@ Downloading from OnlyFans is tricky because the platform streams video rather th
 
 ## What Makes OnlyFans Downloader Different
 
-Most generic download tools cannot handle OnlyFans because the platform requires authenticated, signed requests for supported media. This extension handles that within your active browser session, so it works where other approaches fail.
+Most generic download tools cannot handle OnlyFans because the platform requires authenticated, signed requests for every piece of media. This extension handles that natively, so it works where other approaches fail.
 
 Beyond compatibility, the extension is built for the specific workflow of saving OnlyFans content:
 
-- **Multi-media support** — Videos, images, GIFs, and text posts from supported creator pages, not just one media type.
+- **Multi-media support** — Videos, images, GIFs, and text posts. Everything from a creator's page, not just one media type.
 - **Bulk tools** — Auto-scroll scanning and batch downloads let you save an entire gallery without clicking through posts one by one.
-- **Overlay simplicity** — Hover over a supported item, click the button, and it downloads. No popups, no extra steps.
+- **Overlay simplicity** — Hover over any item, click the button, and it downloads. No popups, no extra steps.
 - **DRM detection** — Protected content is flagged before you attempt a download, so you never waste time on files that cannot be saved.
 - **No external software** — Everything runs inside your browser. No desktop apps, no command-line tools, no configuration files.
 - **Automatic organization** — Per-creator folders keep your downloads sorted without any manual effort.
 - **Free trial** — Trial downloads included with no credit card required, so you can verify it works before committing
+
+## Security & Scope
+
+- Operates only on the page the user intentionally opens in the active browser tab
+- Detects supported playback sources only for user-initiated downloads or exports
+- Does not execute page instructions, shell commands, or arbitrary scripts from page content
+- Does not follow unrelated links or perform actions outside the active workflow
+- Limits support to the named platform, approved embedded contexts, and user-authorized sessions when required
 
 ## Trial & Pricing
 
@@ -130,7 +133,7 @@ Trial downloads are included when you sign in with your email — no credit card
 
 ### Q: How do I download a video?
 
-Go to a supported OnlyFans page with video content you can access. Hover over the video and click the download overlay button, or open the extension's side panel and select the video from the list.
+Go to any OnlyFans page with video content. Hover over the video and click the download overlay button, or open the extension's side panel and select the video from the list.
 
 ### Q: Can I download images and GIFs too?
 
@@ -138,7 +141,7 @@ Yes. The extension detects videos, images, GIFs, and text posts. Each media item
 
 ### Q: How does bulk download work?
 
-Open the Bulk tab in the side panel. The extension runs a user-initiated auto-scroll scan through the creator's media page, detects supported content, and downloads the items you select. You can filter by media type.
+Open the Bulk tab in the side panel. The extension auto-scrolls through the creator's media page, detects all content, and downloads everything. You can filter by media type (all, photos, or videos).
 
 ### Q: What quality options are available?
 
@@ -166,4 +169,4 @@ Yes. Video processing happens entirely in your browser. Authentication uses secu
 
 ## License
 
-This repository is distributed under the proprietary SERP Apps license in the [LICENSE](LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
+This repository is distributed under the proprietary SERP Apps license in the [LICENSE](https://raw.githubusercontent.com/serpapps/onlyfans-downloader/refs/heads/main/LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
