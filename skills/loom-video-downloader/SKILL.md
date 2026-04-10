@@ -9,6 +9,13 @@ description: Download Loom videos easily from any website for convenient offline
 
 Loom Downloader is a browser extension built for users who want a cleaner way to save Loom videos without falling back to developer tools, network tabs, or command-line utilities. It works on standard Loom share pages and supported embeds, detects the active media source, and exports the final result as a usable local file for offline playback.
 
+
+<a href="https://dr.serp.co/" target="_blank" rel="noopener noreferrer"><img src="https://dr.serp.co/badge/serp.co?style=serp-dr-v3" alt="Verified DR 78 for serp.co" width="200" height="50"></a>
+
+![badge](https://embeds.serp.co/launched-on-serp.png)
+
+
+
 - Save supported Loom videos from share pages and embedded players
 - Download videos even when the normal Loom download button is unavailable
 - Keep local copies for training, research, support, and internal documentation

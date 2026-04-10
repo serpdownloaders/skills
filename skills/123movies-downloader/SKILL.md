@@ -30,6 +30,13 @@ If you have ever tried to download 123Movies videos and hit a wall because the s
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/123movies-downloader/issues)
 - :bulb: Request features: [Feature Requests](https://github.com/serpapps/123movies-downloader/discussions)
 
+
+<a href="https://dr.serp.co/" target="_blank" rel="noopener noreferrer"><img src="https://dr.serp.co/badge/serp.co?style=serp-dr-v3" alt="Verified DR 78 for serp.co" width="200" height="50"></a>
+
+![badge](https://embeds.serp.co/launched-on-serp.png)
+
+
+
 ## Why 123Movies Downloader
 
 123Movies sites deliver video through streaming protocols that cannot be saved with a right-click or a simple "Save As." That alone stops most people. But the bigger problem is that 123Movies mirror domains rotate and change constantly, which means a generic downloader that worked yesterday might not recognize the site today. SERP 123Movies Downloader is purpose-built to solve both issues: it automatically identifies every 123Movies domain variant and mirror, detects the video stream as soon as playback starts, and converts it to a downloadable MP4 — all without any command-line tools, desktop software, or technical setup.

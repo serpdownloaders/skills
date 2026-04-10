@@ -9,6 +9,13 @@ description: Download YouTube videos to your computer so you can watch them offl
 
 YouTube Downloader is a browser extension built for users who need a cleaner way to save supported YouTube videos for offline access. It is designed for browser playback flows across watch pages, Shorts, and embedded players, and it helps you export usable files without relying on manual stream handling.
 
+
+<a href="https://dr.serp.co/" target="_blank" rel="noopener noreferrer"><img src="https://dr.serp.co/badge/serp.co?style=serp-dr-v3" alt="Verified DR 78 for serp.co" width="200" height="50"></a>
+
+![badge](https://embeds.serp.co/launched-on-serp.png)
+
+
+
 - Save supported YouTube videos from watch pages, Shorts, and embeds
 - Export MP4 or WebM output depending on the source workflow
 - Keep offline copies for research, editing, and review

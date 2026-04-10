@@ -9,6 +9,13 @@ description: Save Vimeo videos instantly for offline viewing.
 
 SERP Vimeo Video Downloader is a browser extension built specifically for saving Vimeo videos as standard files you can keep — no re-encoding, no watermarks, and no unnecessary tracking.
 
+
+<a href="https://dr.serp.co/" target="_blank" rel="noopener noreferrer"><img src="https://dr.serp.co/badge/serp.co?style=serp-dr-v3" alt="Verified DR 78 for serp.co" width="200" height="50"></a>
+
+![badge](https://embeds.serp.co/launched-on-serp.png)
+
+
+
 - Save Vimeo videos in their original quality for offline viewing — lectures, tutorials, portfolios, or anything else you need access to
 - Download public, embedded, and private (authenticated) Vimeo videos from 240p up to 4K UHD
 - Skip unreliable online converters and shady download sites — this extension works right inside your browser with one-click downloads

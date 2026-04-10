@@ -9,6 +9,13 @@ description: Download videos from your Whop classes and backup your hard work, s
 
 SERP Whop Downloader is a browser extension built specifically for saving content from Whop — videos, images, and text posts — as standard files you can keep.
 
+
+<a href="https://dr.serp.co/" target="_blank" rel="noopener noreferrer"><img src="https://dr.serp.co/badge/serp.co?style=serp-dr-v3" alt="Verified DR 78 for serp.co" width="200" height="50"></a>
+
+![badge](https://embeds.serp.co/launched-on-serp.png)
+
+
+
 - Save course videos, images, and text posts from any Whop page for offline viewing and study
 - Download all visible content from a course or lesson page in one click with "Download Visible" bulk action
 - Skip generic tools that fail on Whop's layered page structure — this extension finds content other tools miss entirely

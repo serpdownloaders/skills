@@ -9,6 +9,13 @@ description: Download videos from gohighlevel course areas
 
 GoHighLevel Downloader is a browser extension built for users who want a simpler way to save training and course videos from GoHighLevel-powered portals. It works with supported GoHighLevel-hosted streams and common embedded lesson providers, giving you a browser-first workflow for detecting the lesson video, choosing a quality, and exporting an MP4 file you can replay later.
 
+
+<a href="https://dr.serp.co/" target="_blank" rel="noopener noreferrer"><img src="https://dr.serp.co/badge/serp.co?style=serp-dr-v3" alt="Verified DR 78 for serp.co" width="200" height="50"></a>
+
+![badge](https://embeds.serp.co/launched-on-serp.png)
+
+
+
 - Save GoHighLevel lesson videos as MP4 files
 - Download supported GoHighLevel-hosted streams from portal and membership pages
 - Capture supported embedded lesson videos from Loom, Vimeo, Wistia, and YouTube
