@@ -7,6 +7,7 @@ description: Download videos from your skool.com classroom and backup your hard 
 
 > Browser extension that adds a download button to Skool classroom pages — detects videos from Skool's native player, Loom, Vimeo, YouTube, and Wistia, and saves them as MP4 for offline viewing.
 
+
 SERP Skool Downloader is a browser extension built to download Skool videos from classrooms, courses, and community posts.
 
 - Save entire Skool classrooms and course content for unlimited offline access anytime, anywhere
@@ -17,6 +18,7 @@ SERP Skool Downloader is a browser extension built to download Skool videos from
 ![skool-downloader](https://github.com/user-attachments/assets/0b750532-0dd0-4768-a8c4-489b4e92c1c6)
 
 Skool video download has always been difficult because the platform hosts content across multiple video providers, but this extension detects them all automatically and saves everything as a standard MP4 file.
+
 
 ## Watch the Video
 
@@ -31,6 +33,12 @@ Skool video download has always been difficult because the platform hosts conten
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/skool-downloader/issues)
 - :bulb: Request features: [Feature Requests](https://github.com/serpapps/skool-downloader/issues)
+
+<a href="https://dr.serp.co/" target="_blank" rel="noopener noreferrer"><img src="https://dr.serp.co/badge/serp.co?style=serp-dr-v3" alt="Verified DR 78 for serp.co" width="200" height="50"></a>
+
+![badge](https://embeds.serp.co/launched-on-serp.png)
+
+
 
 ## Why Skool Downloader
 
